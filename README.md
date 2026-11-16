@@ -44,12 +44,11 @@ Spielende wählen innerhalb eines Budgets Maßnahmen aus und verfolgen deren Aus
 
 ![Kurze Demonstration des Planspiels](assets/planspiel-demo.gif)
 
-<details>
-<summary>Ergebnisansicht ansehen</summary>
+### Spielauswertung
 
 ![Abschluss des Planspiels mit Akzeptanz, Stauindex, erfüllten Anträgen und Restbudget](assets/planspiel-ergebnis.png)
 
-</details>
+
 
 ## Pearman
 
