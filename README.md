@@ -72,7 +72,6 @@ Pearman ist ein browserbasiertes Multiplayer-Spiel mit endlosen Gegnerwellen und
 **Persönliches Projekt mit KI-generierter Implementierung**
 
 Ein interaktiver Begleiter für die Kampagne von Path of Exile 2 mit durchsuchbaren Routennotizen, Filtern, Fortschrittsanzeige und einer Build-Anzeige.
-Die Website soll mir und meinen Freunden helfen möglichst schnell durch die Kampagne zu kommen.
 
 Die Implementierung wurde fast vollständig mit ChatGPT erstellt.
 
