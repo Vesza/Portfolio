@@ -19,10 +19,10 @@ FastSchedule soll die alltägliche Terminplanung durch eine übersichtliche, vis
 **Technologien** · JavaScript, React Native, Expo, Firebase
 
 <p>
-  <img src="assets/fastschedule-uebersicht.jpg" alt="Tagesübersicht, Terminen und Erinnerungen" width="250">
-  <img src="assets/fastschedule-neuer-eintrag.jpg" alt="Auswahl zwischen Termin und Erinnerung" width="250">
-  <img src="assets/fastschedule-anhaenge.jpg" alt="Auswahl für Beschreibung, Bild und Sprachmemo" width="250">
-  <img src="assets/fastschedule-termine.png" alt="Detailierte Terminansicht" width="250">
+  <img src="assets/fastschedule-uebersicht.jpg" alt="Tagesübersicht, Terminen und Erinnerungen" width="200">
+  <img src="assets/fastschedule-neuer-eintrag.jpg" alt="Auswahl zwischen Termin und Erinnerung" width="200">
+  <img src="assets/fastschedule-anhaenge.jpg" alt="Auswahl für Beschreibung, Bild und Sprachmemo" width="200">
+  <img src="assets/fastschedule-termine.png" alt="Detailierte Terminansicht" width="200">
 </p>
 
 ## Planspiel Mobilitätswende
